@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+transformers
+tqdm
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+pycocotools
+accelerate
+sentencepiece
+opencv-python
